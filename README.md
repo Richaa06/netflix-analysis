@@ -32,3 +32,8 @@ File Format : CSV
 
 **Visualization Tools**: Matplotlib & Seaborn for graphical insights
 
+## Viewing the Dashboard
+
+You can view the Tableau dashboard by downloading the `.twb`/`.twbx` file and opening it with Tableau Desktop.
+ **[View Dashboard](https://public.tableau.com/app/profile/megha.singh4847/viz/netflixanalysis_17209820333540/Netflix)**
+
